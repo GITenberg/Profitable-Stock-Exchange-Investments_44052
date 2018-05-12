@@ -1,0 +1,32 @@
+_repo: Profitable-Stock-Exchange-Investments_44052
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44052-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Henry Voorce Brandenburg & Co.
+    alias: Henry Voorce Brandenburg and Co.
+    gutenberg_agent_id: '42545'
+    url: http://www.gutenberg.org/2009/agents/42545
+description: Though we often associate stock exchanges with the hustle and bustle
+  of the present-day financial services industry, the key structures underpinning
+  these exchanges actually date back to ancient times, and the first modern example
+  of a stock exchange was established in 1602. If you''re interested in eschewing
+  trendy stock advice and sticking with the basics, Henry Voorce Brandenburg''s concise
+  Profitable Stock Exchange Investments is a great place to start.
+gutenberg_issued: '2013-10-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44052'
+  lccn: 01027395
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Investments'
+- !lcsh 'Speculation'
+- !lcc 'HG'
+title: Profitable Stock Exchange Investments
+url: http://www.gutenberg.org/ebooks/44052
